@@ -10,10 +10,11 @@ I enjoy working across the stack — from crafting polished UIs to designing rel
 
 | Frontend | Backend | Database |
 |---|---|---|
-| Vue.js, React | PHP, Java (Spring) | MySQL, PostgreSQL |
+| Vue.js, React | PHP, Java (Spring) | MySQL / MariaDB, PostgreSQL |
+| JavaScript, TypeScript | | |
 | HTML, CSS / SCSS | | |
 
 ## Get in touch
 
-- **Portfolio** — [royan.dev](https://royan.dev)
+- **Website** — [royan.dev](https://royan.dev)
 - **LinkedIn** — [royan-baluch](https://www.linkedin.com/in/royan-baluch/)
