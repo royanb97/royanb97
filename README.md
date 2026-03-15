@@ -10,8 +10,8 @@ I enjoy working across the stack — from crafting polished UIs to designing rel
 
 | Frontend | Backend | Database |
 |---|---|---|
-| Vue.js, React | PHP, Java (Spring) | MySQL / MariaDB, PostgreSQL |
-| JavaScript, TypeScript | | |
+| Vue.js, React | PHP, Java (Spring) | MySQL / MariaDB |
+| JavaScript, TypeScript | | PostgreSQL |
 | HTML, CSS / SCSS | | |
 
 ## Get in touch
